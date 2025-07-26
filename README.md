@@ -1,3 +1,3 @@
 # ToDoAPP
 TodoApp Using HTML CSS & JAVASCRIPT...
-Just for educational purpose 
+#Just for educational purpose 
